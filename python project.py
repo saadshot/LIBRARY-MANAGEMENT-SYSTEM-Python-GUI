@@ -1,5 +1,5 @@
-from Tkinter import *
-from tkMessageBox import *
+from tkinter import *
+from tkinter.messagebox import *
 
 import sqlite3
 con=sqlite3.Connection("database")
